@@ -1,0 +1,2 @@
+Q8) the security of the data and allows access to a level without revealing the complex details below that level.
+Q9) you can't access non static variable using class name
